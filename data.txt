@@ -1,0 +1,50 @@
+Poniedzialek
+07.10-07.55 Matematyka
+08.00-08.45 Historia
+08.50-09.35 Jezyk niemiecki
+09.40-10.25 Geografia
+10.35-11.20 Matematyka
+11.30-12.15 Jezyk angielski
+12.30-13.15 Fizyka
+13.25-14.10 Chemia
+14.20-15.05 ---------------
+Wtorek
+07.10-07.55 Matematyka
+08.00-08.45 Podstawy przedsiebiorczosci
+08.50-09.35 Jezyk niemiecki
+09.40-10.25 Biologia
+10.35-11.20 Matematyka
+11.30-12.15 Wychowanie fizyczne
+12.30-13.15 ---------------
+13.25-14.10 ---------------
+14.20-15.05 ---------------
+Sroda
+07.10-07.55 ---------------
+08.00-08.45 Biologia
+08.50-09.35 Jezyk polski
+09.40-10.25 Matematyka
+10.35-11.20 Matematyka
+11.30-12.15 Wychowanie fizyczne
+12.30-13.15 Informatyka
+13.25-14.10 Chemia
+14.20-15.05 Religia
+Czwartek
+07.10-07.55 ---------------
+08.00-08.45 ---------------
+08.50-09.35 Jezyk angielski
+09.40-10.25 Matematyka
+10.35-11.20 Matematyka
+11.30-12.15 Wychowanie fizyczne
+12.30-13.15 Historia
+13.25-14.10 Podstawy przedsiebiorczosci
+14.20-15.05 Informatyka
+Piatek
+07.10-07.55 ---------------
+08.00-08.45 Wychowanie fizyczne
+08.50-09.35 Jezyk polski
+09.40-10.25 Informatyka
+10.35-11.20 Historia
+11.30-12.15 Jezyk niemiecki
+12.30-13.15 Matematyka
+13.25-14.10 Fizyka
+14.20-15.05 ---------------
